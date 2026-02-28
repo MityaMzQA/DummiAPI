@@ -4,8 +4,8 @@ There is a description of the API: https://dummyapi.io/docs
 Create a collection of requests in Postman that includes:
 
 Get a list of users;
-Get a user;
-Creating a user;
+ Get a user;
+ Creating a user;
 Updating a user;
 Deleting a user.
 The following Postman features were used to complete the assignment:
