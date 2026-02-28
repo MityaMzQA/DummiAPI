@@ -3,22 +3,22 @@ There is a description of the API: https://dummyapi.io/docs
 
 Create a collection of requests in Postman that includes:
 
-Get a list of users;
+1.Get a list of users;
 
-Get a user;
+2.Get a user;
 
-Creating a user;
+3.Creating a user;
 
-Updating a user;
+4.Updating a user;
 
-Deleting a user.
+5.Deleting a user.
 
 The following Postman features were used to complete the assignment:
 
-variables were created;
+1.Variables were created;
 
-Snippets were used to check the status code of requests;
+2.Snippets were used to check the status code of requests;
 
-POST GET, PUT, DELETE methods are used.
+3.POST GET, PUT, DELETE methods are used.
 
 The created collection is in the file "DummiAPI.postman_collection.json"
